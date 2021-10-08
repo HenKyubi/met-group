@@ -19,7 +19,7 @@ const Login = () => {
                 id="login"
                 className="col-12 bg-light bg-gradient rounded border border border-primary"
                 name="login"
-                placeholder="Username"
+                placeholder="Usuario"
               />
             </div>
             <div className="py-2">
@@ -28,14 +28,14 @@ const Login = () => {
                 id="password"
                 className="col-12 bg-light bg-gradient rounded border border-primary"
                 name="login"
-                placeholder="Password"
+                placeholder="Contraseña"
               />
             </div>
             <div className="py-2">
               <input
                 type="submit"
                 className="col-12 fw-bold text-white btn bg-primary bg-gradient border-0"
-                value="Log In"
+                value="Ingresar"
               />
             </div>
             <div className="py-2">
